@@ -1,5 +1,7 @@
 {
-  "script": "node index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "cowsay": "^1.5.0"
   }
